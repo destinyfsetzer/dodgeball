@@ -57,9 +57,9 @@ const arrOfPeople = [
 ]
 
 // creates empty arrays for list of players and teams
-const listOfPlayers = []
-const blueTeam = []
-const redTeam = []
+// const listOfPlayers = []
+// const blueTeam = []
+// const redTeam = []
 
 // object constructors for players and teams
 class Player {

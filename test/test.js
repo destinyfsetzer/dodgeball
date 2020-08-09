@@ -2,7 +2,7 @@
 const assert = require("assert")
 
 // import classes
-const { Player, Teammate } = require("../main.js").default
+const { Player, Teammate } = require("../main.js")
 
 // 3 tests
 // 1. Should create a player
